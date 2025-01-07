@@ -61,9 +61,9 @@ You can Always check my other interesting project [here](https://github.com/amae
 ---
 
 ## 📫 Let’s Connect!  
-- **LinkedIn**: [https://img.icons8.com/?size=100&id=13930&format=png&color=000000>](https://www.linkedin.com/in/amaechi-ugwu)  
-- **Twitter**: 
-- **Portfolio**: [https://drive.google.com/file/d/1hJh6TvyqNp2xZPK1U92q6SN3n07S_yah/view?usp=drivesdk&usp=embed_facebook](https://portfolio-iqua.onrender.com/)  
+- **LinkedIn**: ![https://img.icons8.com/?size=100&id=13930&format=png&color=000000>](https://www.linkedin.com/in/amaechi-ugwu)  
+- **Twitter**: ![https://uxwing.com/x-social-media-black-icon/](https://x.com/1_amaechi)
+- **Portfolio**: ![https://drive.google.com/file/d/1hJh6TvyqNp2xZPK1U92q6SN3n07S_yah/view?usp=drivesdk&usp=embed_facebook](https://portfolio-iqua.onrender.com/)  
 
 ---
 
