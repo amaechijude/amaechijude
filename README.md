@@ -1,6 +1,5 @@
-# Hello, I'm Amaechi Ugwu 👋  
+<h1 align="center">I am Amaechi Ugwu</h1>  
 
-![Profile Banner](https://drive.google.com/file/d/1hJh6TvyqNp2xZPK1U92q6SN3n07S_yah/view?usp=drivesdk&usp=embed_facebook)
 
 Welcome to my GitHub profile! I'm a versatile software developer with expertise in building scalable web applications using modern frameworks and cloud technologies. I enjoy creating innovative solutions, learning new technologies, and contributing to impactful projects.
 
