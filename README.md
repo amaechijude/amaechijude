@@ -103,7 +103,11 @@ Created an open-source Python package that simplifies payment processing integra
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaechijude&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaechijude&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaechijude&layout=compact&theme=dark)](https://github.com/amaechijude/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amaechijude&theme=dark)](https://git.io/streak-stats)
 
 [**Explore All Repositories →**](https://github.com/amaechijude?tab=repositories)
 
