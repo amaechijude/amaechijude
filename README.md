@@ -58,21 +58,7 @@ Celery, Background Job Processing, Distributed Systems
 
 **Tech Stack:** Django, PostgreSQL, Redis, Celery, Docker, Azure Blob Storage, Azure VM
 
-[View Repository →](https://github.com/yourusername/tailorconnect)
-
----
-
-### **FaceAuth** | Computer Vision • Authentication • AI
-*AI-powered facial recognition authentication system*
-
-Developed an intelligent authentication solution leveraging computer vision and machine learning for secure, biometric-based access control. The system provides real-time face detection and verification capabilities.
-
-**Highlights:**
-- Real-time image capture and processing pipeline
-- Machine learning model integration for facial recognition
-- Secure authentication workflow with multi-factor verification support
-
-[View Repository →](https://github.com/amaechijude/FaceAuth)
+[View Repository →](https://github.com/amaechijude/tailorconnect)
 
 ---
 
@@ -96,8 +82,6 @@ Created an open-source Python package that simplifies payment processing integra
 - **Backend Architecture**: Designing scalable, maintainable server-side applications
 - **Cloud Infrastructure**: Leveraging Azure services for production deployments
 - **API Development**: Building robust, well-documented RESTful services
-- **Data Engineering**: Efficient data processing and storage solutions
-- **AI/ML Integration**: Incorporating machine learning into practical applications
 
 ---
 
@@ -119,9 +103,9 @@ I'm always interested in discussing new opportunities, technical challenges, or 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amaechi-ugwu)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/1_amaechi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=google-chrome)](https://portfolio-iqua.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=google-chrome)](https://www.amaechiugwu.space)
 
-**Email:** [Your professional email]
+**Email:** [amaechijude178@gmail.com]
 
 ---
 
